@@ -1,0 +1,14 @@
+Realisé :
+
+1/ base de donnée mongoDB : creation
+
+2/ serveur : integration de la base de donnée à la platforme
+
+A venir :
+
+TODO : 
+1/ dans le controleur user-form
+    1.1/ verifier les informations envoyé par l'utilisateur dans la fonction addUser
+2/  trouver un moyen efficace de gerer l'attente de confirmation via les codes 
+    lors de la creation d'un nouveau compte
+
